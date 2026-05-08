@@ -25,27 +25,27 @@ export const productVariants: ProductVariant[] = [
     code: "JN2093",
     images: [
       {
-        src: "/product/mini/jn2093-1.jpg",
+        src: "/product/optimized/mini/jn2093-1.webp",
         alt: "FIFA World Cup 26 Historical Mini Ball Set box and mini balls",
       },
       {
-        src: "/product/mini/jn2093-2.jpg",
+        src: "/product/optimized/mini/jn2093-2.webp",
         alt: "FIFA World Cup 26 Historical Mini Ball Set front view",
       },
       {
-        src: "/product/mini/jn2093-3.jpg",
+        src: "/product/optimized/mini/jn2093-3.webp",
         alt: "FIFA World Cup 26 Historical Mini Ball Set open display box",
       },
       {
-        src: "/product/mini/jn2093-4.jpg",
+        src: "/product/optimized/mini/jn2093-4.webp",
         alt: "FIFA World Cup 26 Historical Mini Ball Set packaging detail",
       },
       {
-        src: "/product/mini/jn2093-5.jpg",
+        src: "/product/optimized/mini/jn2093-5.webp",
         alt: "FIFA World Cup 26 Historical Mini Ball Set mini ball collection",
       },
       {
-        src: "/product/mini/jn2093-6.jpg",
+        src: "/product/optimized/mini/jn2093-6.webp",
         alt: "FIFA World Cup 26 Historical Mini Ball Set side packaging",
       },
     ],
@@ -60,27 +60,27 @@ export const productVariants: ProductVariant[] = [
     code: "KB1812",
     images: [
       {
-        src: "/product/kb1812-1.jpg",
+        src: "/product/optimized/pro/kb1812-1.webp",
         alt: "Multicolor FIFA World Cup 26 Historical Pro Ball Set open box",
       },
       {
-        src: "/product/kb1812-2.png",
+        src: "/product/optimized/pro/kb1812-2.webp",
         alt: "Adidas World Cup Historical Pro Match Ball Set front angle",
       },
       {
-        src: "/product/kb1812-3.png",
+        src: "/product/optimized/pro/kb1812-3.webp",
         alt: "Adidas World Cup Historical Pro Match Ball Set closed package",
       },
       {
-        src: "/product/kb1812-4.png",
+        src: "/product/optimized/pro/kb1812-4.webp",
         alt: "Adidas World Cup Historical Pro Match Ball Set side detail",
       },
       {
-        src: "/product/kb1812-5.png",
+        src: "/product/optimized/pro/kb1812-5.webp",
         alt: "Adidas World Cup Historical Pro Match Ball Set display box",
       },
       {
-        src: "/product/kb1812-6.png",
+        src: "/product/optimized/pro/kb1812-6.webp",
         alt: "Adidas World Cup Historical Pro Match Ball Set packaging detail",
       },
     ],
