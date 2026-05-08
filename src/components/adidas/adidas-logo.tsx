@@ -1,0 +1,17 @@
+export function AdidasLogo() {
+  return (
+    <svg
+      aria-label="adidas"
+      className="adidas-logo"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="100 100 50 32"
+      role="img"
+    >
+      <path
+        fillRule="evenodd"
+        d="M150.07 131.439 131.925 100l-9.719 5.606 14.906 25.833zm-17.289 0-11.984-20.747-9.719 5.606 8.745 15.141zm-23.063-10.038 5.791 10.038h-12.958L100 127.007z"
+        clipRule="evenodd"
+      />
+    </svg>
+  );
+}
